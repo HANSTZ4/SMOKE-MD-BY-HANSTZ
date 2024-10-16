@@ -1,17 +1,17 @@
 
 {
-  "name": "Fredi-Md",
+  "name": "Hans-Md",
   "version": "10.8.1",
-  "description": "Fredi-Md latest multi device whatsapp bot",
+  "description": "Hans-Md latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Fredi-Md",
-    "stop": "pm2 stop Fredi-Md",
-    "restart": "pm2 restart Fredi-Md"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Hans-Md",
+    "stop": "pm2 stop Hans-Md",
+    "restart": "pm2 restart Hans-Md"
   },
-  "keywords": ["Fredi-Md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "FrediEzra",
+  "keywords": ["Hans-Md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "HansTz",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
